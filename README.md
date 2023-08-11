@@ -6,8 +6,8 @@
       <td><p>1st Francieli Moreira de Carvalho</p>   <p><em>Instituto de Informática</em></p> <p><em>Universidade Federal de Goiás</em></p> <p>Goiânia, Brasil</p> <p>francielimoreira@discente.ufg.br</p></td>
       <td><p>2nd Jamil Soares da Silva Júnior</p><p><em>Instituto de Informática</em></p> <p><em>Universidade Federal de Goiás</em></p> <p>Goiânia, Brasil</p> <p>jamiljunior@discente.ufg.br</p></td>
       <td><p>3rd Letícia de Cerqueira Xavier </p><p><em>Instituto de Informática</em></p> <p><em>Universidade Federal de Goiás</em></p> <p>Goiânia, Brasil</p> <p>cerqueiraleticia@discente.ufg.br</p></td>
-      <td><p>4th Victor Guerreiro Pimenta</p><p><em>Instituto de Informática</em></p> <p><em>Universidade Federal de Goiás</em></p><p>Goiânia, Brasil</p> <p>victorguerreiro@discente.ufg.br</p></td>
     </tr>
+    <tr><td><p>4th Victor Guerreiro Pimenta</p><p><em>Instituto de Informática</em></p> <p><em>Universidade Federal de Goiás</em></p><p>Goiânia, Brasil</p> <p>victorguerreiro@discente.ufg.br</p></td></tr>
   </tbody>
 </table>
 
